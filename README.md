@@ -14,3 +14,9 @@ Sen de bunu kendi sitene eklemek istiyorsun.
 
 - İpucu: handleChange'de checkbox için value değerini checked'den almasını sağlayabilirsin.
 - İpucu: Test için erdem.guntay@wit.com.tr adresini 9fxIH0GXesEwH_I şifresini kullanabilirsin.
+
+## Önemli Notlar
+
+- Proje dizinindeki `user.json` dosyasını bulun ve `user_id` alanını NextGen proje ekranında görünen kendi `user_id` değeriniz ile güncelleyin.
+- Geliştirme sırasında testleri izlemek için `npm test` komutunu kullanın.
+- Testleri çalıştırıp skoru NextGen'e kaydetmek için `npm run sendresults` komutunu kullanın.
